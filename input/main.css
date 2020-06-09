@@ -1,0 +1,12 @@
+.input{}
+.btn {
+    width: 178px;
+    height: 38px;
+    background-color: #00ff00;
+    margin-top: 17px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.display{
+
+}
